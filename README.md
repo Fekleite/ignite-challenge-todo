@@ -1,4 +1,4 @@
-<h1> to.do ✅</h1>
+<h1> to.do 📝</h1>
 
 <p align="center"  > 
   <img src="https://user-images.githubusercontent.com/48728541/111034124-ec9d7b00-83f2-11eb-8305-62a5ffc590d6.png" /> 
